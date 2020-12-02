@@ -1,0 +1,218 @@
+{
+    "allKeywords": [
+        "dihydrogen oxide",
+        "sauerstoff",
+        "wood",
+        "wasser",
+        "aqua",
+        "8o",
+        "oxygen atom",
+        "oxygene",
+        "water",
+        "o",
+        "oxidane",
+        "oxigeno",
+        "disordered solvent",
+        "oxygen"
+    ],
+    "actions": [
+        {
+            "id": "cb82031c-a743-40eb-807f-d43b8b67aa37",
+            "details": "PresQT Transfer from OSF to GitHub",
+            "actionDateTime": "2020-12-02 19:16:57.848556+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "osf",
+            "sourceUsername": "PresQT QA",
+            "destinationTargetName": "github",
+            "destinationUsername": "PresQT-QA-TEST",
+            "keywords": {
+                "sourceKeywordsAdded": [
+                    "wasser",
+                    "wood",
+                    "aqua",
+                    "oxygen atom",
+                    "water"
+                ],
+                "sourceKeywordsEnhanced": [
+                    "dihydrogen oxide",
+                    "sauerstoff",
+                    "8o",
+                    "oxygene",
+                    "o",
+                    "oxidane",
+                    "oxigeno",
+                    "disordered solvent",
+                    "oxygen"
+                ],
+                "ontologies": [
+                    {
+                        "keywords": [
+                            "dihydrogen oxide",
+                            "oxidane",
+                            "disordered solvent"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_15377",
+                        "ontology_id": "CHEBI_15377",
+                        "categories": [
+                            "Environmental material",
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "sauerstoff",
+                            "8o",
+                            "oxygene",
+                            "oxigeno"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_25805",
+                        "ontology_id": "CHEBI_25805",
+                        "categories": [
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "o"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_33819",
+                        "ontology_id": "CHEBI_33819",
+                        "categories": [
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "oxygen"
+                        ],
+                        "ontology": "http://wiki.cs.rpi.edu/trac/metpetdb/wiki/Element#Oxygen",
+                        "ontology_id": "Oxygen",
+                        "categories": []
+                    }
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/NewProject-PresQT5-/osfstorage/funnyfunnyimages/Screen_Shot_2019-07-15_at_3.26.49_PM.png",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "3505a89c3cbb82873a107ae41f3997c3",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "sourceHashes": {
+                            "md5": "3505a89c3cbb82873a107ae41f3997c3",
+                            "sha256": "6d33275234b28d77348e4e1049f58b95a485a7a441684a9eb9175d01c7f141ea"
+                        },
+                        "sourcePath": "/NewProject/osfstorage/funnyfunnyimages/Screen Shot 2019-07-15 at 3.26.49 PM.png",
+                        "extra": {
+                            "id": "5f9afe3987b7df04033af67e",
+                            "parent_project_id": "mezn8",
+                            "endpoint": "https://api.osf.io/v2/files/5f9afe3987b7df04033af67e/",
+                            "download_url": "https://files.osf.io/v1/resources/mezn8/providers/osfstorage/5f9afe3987b7df04033af67e",
+                            "upload_url": "https://files.osf.io/v1/resources/mezn8/providers/osfstorage/5f9afe3987b7df04033af67e",
+                            "delete_url": "https://files.osf.io/v1/resources/mezn8/providers/osfstorage/5f9afe3987b7df04033af67e",
+                            "last_touched": null,
+                            "date_modified": "2020-10-29T17:39:05.482036Z",
+                            "current_version": 1,
+                            "date_created": "2020-10-29T17:39:05.482036Z",
+                            "provider": "osfstorage",
+                            "path": "/5f9afe3987b7df04033af67e",
+                            "current_user_can_comment": true,
+                            "guid": null,
+                            "checkout": null,
+                            "tags": [],
+                            "size": 731202
+                        }
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        },
+        {
+            "id": "90671ccd-86f7-4a84-a583-52a352894bf6",
+            "details": "PresQT Transfer from OSF to GitLab",
+            "actionDateTime": "2020-11-24 14:59:42.895293+00:00",
+            "actionType": "transfer_enhancement",
+            "sourceTargetName": "osf",
+            "sourceUsername": "PresQT QA",
+            "destinationTargetName": "osf",
+            "destinationUsername": "PresQT QA",
+            "keywords": {
+                "sourceKeywordsAdded": [
+                    "wood",
+                    "water"
+                ],
+                "sourceKeywordsEnhanced": [
+                    "oxygen atom",
+                    "aqua",
+                    "wasser"
+                ],
+                "ontologies": [
+                    {
+                        "keywords": [
+                            "oxygen atom"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_25805",
+                        "ontology_id": "CHEBI_25805",
+                        "categories": [
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    },
+                    {
+                        "keywords": [
+                            "aqua",
+                            "wasser"
+                        ],
+                        "ontology": "http://purl.obolibrary.org/obo/CHEBI_15377",
+                        "ontology_id": "CHEBI_15377",
+                        "categories": [
+                            "Environmental material",
+                            "Chemical entity",
+                            "Material entity"
+                        ]
+                    }
+                ],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ],
+    "extra_metadata": {
+        "title": "NewProject",
+        "creators": [
+            {
+                "first_name": "PresQT",
+                "last_name": "QA",
+                "ORCID": null
+            }
+        ],
+        "publication_date": "2020-10-29T17:39:01.583759",
+        "description": "This is a NewProject",
+        "keywords": [
+            "aqua",
+            "oxygen atom",
+            "wasser",
+            "water",
+            "wood"
+        ],
+        "license": "CC-By Attribution 4.0 International",
+        "related_identifiers": [],
+        "references": null,
+        "notes": null
+    }
+}
